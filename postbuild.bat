@@ -1,0 +1,2 @@
+echo "Moving file from %XML_835_INPUT%\* to %ARCHIVE_XML_835_INPUT%\"
+move %XML_835_INPUT%\* %ARCHIVE_XML_835_INPUT%
